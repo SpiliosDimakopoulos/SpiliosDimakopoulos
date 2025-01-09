@@ -44,10 +44,11 @@ Hi there, I'm Spilios Dimakopoulos 👋
 
 ## Connect with me:
 
-![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
-![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue)&nbsp;
-![Kaggle](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=yellow)&nbsp;
-![Medium](https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode)&nbsp;
+![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin)&nbsp;
+![Kaggle](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle)&nbsp;
+![Medium](https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium)
+
 
 
 
