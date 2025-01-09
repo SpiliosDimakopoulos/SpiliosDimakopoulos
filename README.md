@@ -44,7 +44,7 @@ Hi there, I'm Spilios Dimakopoulos 👋
 
 ## Connect with me:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode)](https://leetcode.com/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/SpiliosDimakopoulos/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%2312100E.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/spiliosdimakopoulos/)&nbsp;
 [![Kaggle](https://img.shields.io/badge/kaggle-%2312100E.svg?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/spiliosdimakopoulos)&nbsp;
 [![Medium](https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium)](https://medium.com/@spiliosdimak)
