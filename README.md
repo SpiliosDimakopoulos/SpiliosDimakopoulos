@@ -46,15 +46,6 @@ Hi there, I'm Spilios Dimakopoulos 👋
 [![Trailhead](https://img.shields.io/badge/Trailhead-%23000000.svg?style=for-the-badge&logo=salesforce)](https://www.salesforce.com/trailblazer/t5uzy58myedsn39iko)&nbsp;
 [![Medium](https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=medium)](https://medium.com/@spiliosdimak)
 
-
-
-
-
-
-
-
-
-
-
-
-     
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
