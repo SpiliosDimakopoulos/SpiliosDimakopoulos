@@ -7,7 +7,7 @@ I build AI products end-to-end — from requirements to live deployment.
 - Live AI university advisor — Llama-3.3-70B, Docker, 0€/month · [Live](https://chataueb.fly.dev)
 - Skill-swap platform — 6 user interviews before writing a line of code · [Live](https://swaply-nu.vercel.app)
 - HR portal for 2,400 security guards — live, costs nothing to run · [Live](https://running-jacintha-workportal-b16a6945.koyeb.app)
-- Conversational analytics platform — upload a dataset, ask in plain language, get instant analysis · [Live](gnosis-ai-psi.vercel.app)
+- Conversational analytics platform — upload a dataset, ask in plain language, get instant analysis · [Live](https://gnosis-ai-chi.vercel.app/)
 - IoT stress detection system — smart ring adjusts lighting and music automatically, no manual input · [Live](https://cheery-tartufo-4fb067.netlify.app)
 
 **Growth**
