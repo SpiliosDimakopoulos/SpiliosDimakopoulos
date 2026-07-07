@@ -22,4 +22,5 @@ I build AI products end-to-end — from requirements to live deployment.
 
 BSc Management Science & Technology — AUEB, 2026
 Open to: AI Product Manager · Product Manager
-[LinkedIn](https://linkedin.com/in/spiliosdimakopoulos)
+[Portfolio](https://linkedin.com/in/spiliosdimakopoulos)
+[Linkedin](https://linkedin.com/in/spiliosdimakopoulos)
