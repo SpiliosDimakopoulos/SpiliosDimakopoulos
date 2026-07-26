@@ -14,7 +14,7 @@ I build AI products end-to-end — from requirements to live deployment.
 - Top 0.5% on Adobe Stock out of 342,000 creators — $13,550+ earned, zero ad spend · [Profile](https://stock.adobe.com/gr_en/contributor/211253040/Cobe)
 - 245M+ organic impressions across 6 platforms — zero budget, zero ad spend
 
-## Open Source
+**Open Source**
 - 47 merged PRs across 13 public repos — LangChain, DSPy (36.4k★), Dify (144k★) · [GitHub](https://github.com/SpiliosDimakopoulos)
 - 7 confirmed production bug fixes — accepted by maintainers with zero prior context
 
