@@ -16,17 +16,18 @@ I build AI products end-to-end — from requirements to live deployment.
 
 **Engineering**
 - 70 merged PRs across 13 public repos — Mainly LangChain, DSPy (36.4k★), Dify (144k★) · [GitHub](https://github.com/SpiliosDimakopoulos)
-- 400+ LeetCode problems solved - daily problem sovling routine :) · [Profile](https://leetcode.com/spiliosdimakopoulos)
+- 400+ LeetCode problems solved - daily problem solving routine :) · [Profile](https://leetcode.com/spiliosdimakopoulos)
 
 **Research**
 - Proved a locally-correct AI can be systematically unfair over time — EU AI Act aligned · [Paper](https://zenodo.org/records/19764115)
 - Validated new startup efficiency metric on 5.6M UK company records · [Paper](https://zenodo.org/records/19527670)
-- Many more submitted for peer review - waiting for approval :/
+- Peer Reviewer: Journal of the International Council for Small Business
+- Multiple manuscripts currently under peer review.
 
 ---
 
 - Currently fine-tuning the world's most accurate Ancient Greek LLM, trained on the entire classical corpus
-- Plus fully autonomous pipelines that build and ship digital products for passive income, no marketing, no ops
+- Plus architecting autonomous AI pipelines for end-to-end digital product deployment.
 
 BSc Management Science & Technology — AUEB, 2026
 Open to: AI x Product roles
