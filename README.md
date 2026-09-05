@@ -11,21 +11,24 @@ I build AI products end-to-end — from requirements to live deployment.
 - IoT stress detection system — smart ring adjusts lighting and music automatically, no manual input · [Live](https://cheery-tartufo-4fb067.netlify.app)
 
 **Growth**
-- Top 0.5% on Adobe Stock out of 342,000 creators — $13,550+ earned, zero ad spend · [Profile](https://stock.adobe.com/gr_en/contributor/211253040/Cobe)
+- Top 0.5% on Adobe Stock out of 342,000 creators — automated pipeline -> 200k assets live, zero ads · [Profile](https://stock.adobe.com/gr_en/contributor/211253040/Cobe)
 - 245M+ organic impressions across 6 platforms — zero budget, zero ad spend
 
 **Engineering**
-- 47 merged PRs across 13 public repos — LangChain, DSPy (36.4k★), Dify (144k★) · [GitHub](https://github.com/SpiliosDimakopoulos)
-- 7 confirmed production bug fixes — accepted by maintainers with zero prior context
-- 240+ LeetCode problems solved — algorithmic fundamentals · [Profile](https://leetcode.com/spiliosdimakopoulos)
+- 70 merged PRs across 13 public repos — Mainly LangChain, DSPy (36.4k★), Dify (144k★) · [GitHub](https://github.com/SpiliosDimakopoulos)
+- 400+ LeetCode problems solved - daily problem sovling routine :) · [Profile](https://leetcode.com/spiliosdimakopoulos)
 
 **Research**
 - Proved a locally-correct AI can be systematically unfair over time — EU AI Act aligned · [Paper](https://zenodo.org/records/19764115)
 - Validated new startup efficiency metric on 5.6M UK company records · [Paper](https://zenodo.org/records/19527670)
+- Many more submitted for peer review - waiting for approval :/
 
 ---
 
+- Currently fine-tuning the world's most accurate Ancient Greek LLM, trained on the entire classical corpus
+- Plus fully autonomous pipelines that build and ship digital products for passive income, no marketing, no ops
+
 BSc Management Science & Technology — AUEB, 2026
-Open to: AI Product Manager · Product Manager
+Open to: AI x Product roles
 [Portfolio](https://spiliosdimakopoulos.com)
 [Linkedin](https://linkedin.com/in/spiliosdimakopoulos)
