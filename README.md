@@ -3,6 +3,7 @@
 I build AI products end-to-end — from requirements to live deployment.
 
 **Products**
+- FinTwin — digital twin of 392 S&P 500 companies' finances from SEC filings, 5,000 crisis simulations live in the browser, rebuilt weekly for 0€ · [Live](https://spiliosdimakopoulos.github.io/fintwin/) · [Code](https://github.com/SpiliosDimakopoulos/fintwin)
 - AI layer for a children's teddy bear that speaks, listens and tutors kids — entirely offline
 - Live AI university advisor — Llama-3.3-70B, Docker, 0€/month · [Live](https://chataueb.fly.dev)
 - Skill-swap platform — 6 user interviews before writing a line of code · [Live](https://swaply-nu.vercel.app)
@@ -19,6 +20,7 @@ I build AI products end-to-end — from requirements to live deployment.
 - 400+ LeetCode problems solved - daily problem solving routine :) · [Profile](https://leetcode.com/spiliosdimakopoulos)
 
 **Research**
+- Showed that balance-sheet stress models mostly measure persistence — and where a simulation twin still beats simple cash-flow rules, every year 2014–2023 (2,661 firm-years) · [Paper](https://github.com/SpiliosDimakopoulos/fintwin/blob/main/docs/paper/fintwin.pdf)
 - Proved a locally-correct AI can be systematically unfair over time — EU AI Act aligned · [Paper](https://zenodo.org/records/19764115)
 - Validated new startup efficiency metric on 5.6M UK company records · [Paper](https://zenodo.org/records/19527670)
 - Peer Reviewer: Journal of the International Council for Small Business
