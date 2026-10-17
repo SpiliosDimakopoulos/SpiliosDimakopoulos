@@ -3,7 +3,7 @@
 I build AI products end-to-end — from requirements to live deployment.
 
 **Products**
-- FinTwin — digital twin of 392 S&P 500 companies' finances from SEC filings, 5,000 crisis simulations live in the browser, rebuilt weekly for 0€ · [Live](https://spiliosdimakopoulos.github.io/fintwin/) · [Code](https://github.com/SpiliosDimakopoulos/fintwin)
+- FinTwin — digital twin of 390+ S&P 500 companies' finances from SEC filings, 5,000 crisis simulations live in the browser, rebuilt weekly for 0€ · [Live](https://spiliosdimakopoulos.github.io/fintwin/) · [Code](https://github.com/SpiliosDimakopoulos/fintwin)
 - AI layer for a children's teddy bear that speaks, listens and tutors kids — entirely offline
 - Live AI university advisor — Llama-3.3-70B, Docker, 0€/month · [Live](https://chataueb.fly.dev)
 - Skill-swap platform — 6 user interviews before writing a line of code · [Live](https://swaply-nu.vercel.app)
