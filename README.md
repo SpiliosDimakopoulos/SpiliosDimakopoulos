@@ -20,7 +20,7 @@ I build AI products end-to-end — from requirements to live deployment.
 - 400+ LeetCode problems solved - daily problem solving routine :) · [Profile](https://leetcode.com/spiliosdimakopoulos)
 
 **Research**
-- Showed that balance-sheet stress models mostly measure persistence — and where a simulation twin still beats simple cash-flow rules, every year 2014–2023 (2,661 firm-years) · [Paper](https://github.com/SpiliosDimakopoulos/fintwin/blob/main/docs/paper/fintwin.pdf)
+- Showed that balance-sheet stress models mostly measure persistence — and where a simulation twin still beats simple cash-flow rules, every year 2014–2023 (2,661 firm-years) · [Paper](https://doi.org/10.5281/zenodo.23434606)
 - Proved a locally-correct AI can be systematically unfair over time — EU AI Act aligned · [Paper](https://zenodo.org/records/19764115)
 - Validated new startup efficiency metric on 5.6M UK company records · [Paper](https://zenodo.org/records/19527670)
 - Peer Reviewer: Journal of the International Council for Small Business
