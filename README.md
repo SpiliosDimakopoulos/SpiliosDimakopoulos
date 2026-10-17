@@ -16,10 +16,12 @@ I build AI products end-to-end — from requirements to live deployment.
 - 245M+ organic impressions across 6 platforms — zero budget, zero ad spend
 
 **Engineering**
+- Upstreamed the TwinLens fix to circuit-tracer, the attribution-graph library · [PR](https://github.com/decoderesearch/circuit-tracer/pull/123)
 - 70 merged PRs across 13 public repos — Mainly LangChain, DSPy (36.4k★), Dify (144k★) · [GitHub](https://github.com/SpiliosDimakopoulos)
 - 400+ LeetCode problems solved - daily problem solving routine :) · [Profile](https://leetcode.com/spiliosdimakopoulos)
 
 **Research**
+- TwinLens — showed LLM attribution graphs mispredict interventions because they drop two derivatives; restoring them lifts accuracy ρ 0.20 → 0.53 on GPT-2, replicated on Qwen3 · [Paper](https://doi.org/10.5281/zenodo.23437556) · [Live](https://spiliosdimakopoulos.github.io/twinlens/) · [Code](https://github.com/SpiliosDimakopoulos/twinlens)
 - Showed that balance-sheet stress models mostly measure persistence — and where a simulation twin still beats simple cash-flow rules, every year 2014–2023 (2,661 firm-years) · [Paper](https://doi.org/10.5281/zenodo.23434606)
 - Proved a locally-correct AI can be systematically unfair over time — EU AI Act aligned · [Paper](https://zenodo.org/records/19764115)
 - Validated new startup efficiency metric on 5.6M UK company records · [Paper](https://zenodo.org/records/19527670)
