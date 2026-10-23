@@ -1,39 +1,25 @@
 # Spilios Dimakopoulos
 
-I build AI products end-to-end — from requirements to live deployment.
+Technical Product Manager (AI) / AI Systems Engineer. I build AI products end to end, from requirements to production.
 
-**Products**
-- FinTwin — digital twin of 390+ S&P 500 companies' finances from SEC filings, 5,000 crisis simulations live in the browser, rebuilt weekly for 0€ · [Live](https://spiliosdimakopoulos.github.io/fintwin/) · [Code](https://github.com/SpiliosDimakopoulos/fintwin)
-- AI layer for a children's teddy bear that speaks, listens and tutors kids — entirely offline
-- Live AI university advisor — Llama-3.3-70B, Docker, 0€/month · [Live](https://chataueb.fly.dev)
-- Skill-swap platform — 6 user interviews before writing a line of code · [Live](https://swaply-nu.vercel.app)
-- HR portal for 2,400 security guards — live, costs nothing to run · [Live](https://running-jacintha-workportal-b16a6945.koyeb.app)
-- Conversational analytics platform — upload a dataset, ask in plain language, get instant analysis · [Live](https://gnosis-ai-chi.vercel.app/)
-- IoT stress detection system — smart ring adjusts lighting and music automatically, no manual input · [Live](https://cheery-tartufo-4fb067.netlify.app)
-
-**Growth**
-- Top 0.5% on Adobe Stock out of 342,000 creators — automated pipeline -> 200k assets live, zero ads · [Profile](https://stock.adobe.com/gr_en/contributor/211253040/Cobe)
-- 245M+ organic impressions across 6 platforms — zero budget, zero ad spend
-
-**Engineering**
-- Upstreamed the TwinLens fix to circuit-tracer, the attribution-graph library · [PR](https://github.com/decoderesearch/circuit-tracer/pull/123)
-- 70 merged PRs across 13 public repos — Mainly LangChain, DSPy (36.4k★), Dify (144k★) · [GitHub](https://github.com/SpiliosDimakopoulos)
-- 400+ LeetCode problems solved - daily problem solving routine :) · [Profile](https://leetcode.com/spiliosdimakopoulos)
+**Now**
+- Technical Product Manager (AI) at Pockee: built most of Scout, a shopping AI agent with 25 tools over live prices, promotions and purchase history; automated offer extraction and B2B reporting, saving ~3,000 hours/year
+- Building fully automated AI systems that generate, distribute and sell digital products (images, video, audio, 3D) with zero manual work
+- AthenAIos: talk by text or voice with two characters of 402 BC Athens, one speaking Attic Greek; self-hosted fine-tuned LLM, real-time 3D amphora UI (pre-launch)
 
 **Research**
-- TwinLens — showed LLM attribution graphs mispredict interventions because they drop two derivatives; restoring them lifts accuracy ρ 0.20 → 0.53 on GPT-2, replicated on Qwen3 · [Paper](https://doi.org/10.5281/zenodo.23437556) · [Live](https://spiliosdimakopoulos.github.io/twinlens/) · [Code](https://github.com/SpiliosDimakopoulos/twinlens)
-- Showed that balance-sheet stress models mostly measure persistence — and where a simulation twin still beats simple cash-flow rules, every year 2014–2023 (2,661 firm-years) · [Paper](https://doi.org/10.5281/zenodo.23434606)
-- Proved a locally-correct AI can be systematically unfair over time — EU AI Act aligned · [Paper](https://zenodo.org/records/19764115)
-- Validated new startup efficiency metric on 5.6M UK company records · [Paper](https://zenodo.org/records/19527670)
-- Peer Reviewer: Journal of the International Council for Small Business
-- Multiple manuscripts currently under peer review.
+- TwinLens: LLM attribution graphs predict interventions poorly (ρ 0.20); restoring two dropped derivatives lifts it to 0.53, replicated on Qwen3 · [Paper](https://doi.org/10.5281/zenodo.23437556) · [Live](https://spiliosdimakopoulos.github.io/twinlens/) · [Code](https://github.com/SpiliosDimakopoulos/twinlens)
+- FinTwin: financial digital twin of 390+ US public companies from 15 years of SEC filings, 5,000-path stress tests in the browser, rebuilt weekly at $0 · [Paper](https://doi.org/10.5281/zenodo.23434606) · [Live](https://spiliosdimakopoulos.github.io/fintwin/) · [Code](https://github.com/SpiliosDimakopoulos/fintwin)
+- Secured debt and small-firm exit: 13-year panel of 1.5M UK companies; secured lending cuts exit risk 39% · Revise & Resubmit, JICSB
 
----
+**Open source**
+- 140+ merged PRs: LangChain (87, docs and Redis integration), fairlearn (28), Sentry, DSPy, Scrapy, Dify
+- Fix submitted to circuit-tracer, the attribution-graph library · [PR](https://github.com/decoderesearch/circuit-tracer/pull/123)
 
-- Currently fine-tuning the world's most accurate Ancient Greek LLM, trained on the entire classical corpus
-- Plus architecting autonomous AI pipelines for end-to-end digital product deployment.
+**Before**
+- Adobe Stock: $0 ad-spend generative AI pipeline, 187K+ assets, top 0.5% globally · [Profile](https://stock.adobe.com/gr_en/contributor/211253040/Cobe)
+- AI R&D Engineer: fully offline voice AI on Raspberry Pi for a children's tutoring toy, built in 30 days
 
-BSc Management Science & Technology — AUEB, 2026
-Open to: AI x Product roles
-[Portfolio](https://spiliosdimakopoulos.com)
-[Linkedin](https://linkedin.com/in/spiliosdimakopoulos)
+BSc Management Science & Technology, AUEB (2026) · MicroMasters, IIM Bangalore (in progress)
+
+[Portfolio](https://spiliosdimakopoulos.com) · [LinkedIn](https://linkedin.com/in/spiliosdimakopoulos)
